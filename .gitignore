@@ -70,3 +70,22 @@ src/alta-games-bouling/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 # Temporary auto-generated Android Assets
 src/alta-games-bouling/[Aa]ssets/[Ss]treamingAssets/aa.meta
 src/alta-games-bouling/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Default ignored files
+src/alta-games-bouling/shelf/
+src/alta-games-bouling/workspace.xml
+
+# Rider ignored files
+src/alta-games-bouling/.idea/
+src/alta-games-bouling/contentModel.xml
+src/alta-games-bouling/projectSettingsUpdater.xml
+src/alta-games-bouling/.idea.alta-games-bouling.iml
+src/alta-games-bouling/modules.xml
+
+# Editor-based HTTP Client requests
+src/alta-games-bouling/httpRequests/
+
+# Datasource local storage ignored files
+src/alta-games-bouling/dataSources/
+src/alta-games-bouling/dataSources.local.xml
+
